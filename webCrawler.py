@@ -4,7 +4,7 @@ import requests # need to import this module, used to fetch content from webpage
 from collections import Counter
 
 
-url = 'http://www.poornima.org/'  
+url = 'https://www.poornima.org/'  
 
 #extract HTML content
 response = requests.get(url)

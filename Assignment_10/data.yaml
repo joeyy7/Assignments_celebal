@@ -1,0 +1,6 @@
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test/images
+
+nc: 27
+names: ['AC', 'Bathtub', 'Bed Frame', 'Bed', 'Closet', 'Cupboard', 'Desk', 'Dining Table', 'Dish Washer', 'Door', 'Exhaust Fan', 'Exhaust Hood', 'Faucet', 'Fridge', 'Microwave', 'Oven', 'Sink', 'Sofa', 'Stove', 'TV', 'Thermo Ventilator', 'Toilet Sink', 'Toilet', 'Washing Machine', 'Water Cubicle', 'Water Heater', 'Windowsill']
